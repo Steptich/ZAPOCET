@@ -1,6 +1,3 @@
-//
-// Created by stept on 01.03.2021.
-//
 
 #ifndef ZAPOCET_BUGNUMEXCEPTION_H
 #define ZAPOCET_BUGNUMEXCEPTION_H

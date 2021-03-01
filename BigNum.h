@@ -1,6 +1,3 @@
-//
-// Created by stept on 27.02.2021.
-//
 
 #ifndef ZAPOCET_BIGNUM_H
 #define ZAPOCET_BIGNUM_H
@@ -52,7 +49,5 @@ public:
     friend BigNum operator / (BigNum &A, BigNum &B);
     friend std::ostream & operator << (std::ostream &os, BigNum &A);
 };
-
-
 
 #endif //ZAPOCET_BIGNUM_H

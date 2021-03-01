@@ -1,6 +1,3 @@
-//
-// Created by stept on 27.02.2021.
-//
 
 #include "BigNum.h"
 #include <iostream>

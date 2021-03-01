@@ -1,8 +1,8 @@
+
 #include <iostream>
 #include "BigNum.h"
 
 using namespace std;
-
 
 int main() {
     try{ // zkusebni blok
