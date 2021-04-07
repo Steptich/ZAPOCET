@@ -31,7 +31,7 @@ int main() {
     catch (bad_alloc &ba) {cout << "Memory allocation problem: " << ba.what() << "\n";}
 
     try {
-        BigNum A("-1654651321654"), F("5415648451651");
+        BigNum A("-0000165465f1321654"), F("5415648451651");
         BigNum U = A + F;
         U.print();
         std::cout << A;
